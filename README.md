@@ -23,14 +23,14 @@
 ## Screenshots
 
 ### P1
-![P1](set1/p1/screenshots/Screenshot_p1.png)
+![P1](set1/p1/Screenshot_p1.png)
 
 ### P2
-![P2](set1/p2/screenshots/Screenshot_p2.png)
+![P2](set1/p2/Screenshot_p2.png)
 
 ### P3
-![P3 add, duplicate, search](set1/p3/screenshots/Screenshot_p3-1.png)
-![P3 remove and display](set1/p3/screenshots/Screenshot_p3-2.png)
+![P3 add, duplicate, search](set1/p3/Screenshot_p3-1.png)
+![P3 remove and display](set1/p3/Screenshot_p3-2.png)
 
 ### P4
-![P4 handled errors](set1/p4/screenshots/Screenshot_p4-2.png)
+![P4 handled errors](set1/p4/Screenshot_p4.png)
